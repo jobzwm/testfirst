@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="my_app_titleBack">
+        <attr name="titleText" format="reference|string" />
+        <attr name="rightText" format="reference|string" />
+        <attr name="leftText" format="reference|string" />
+        <attr name="myLeftTextColor" format="reference" />
+        <attr name="myRightTextColor" format="reference" />
+        <attr name="myTitleTextColor" format="reference" />
+        <attr name="rightTextDrawRight" format="reference" />
+        <attr name="leftTextDrawLeft" format="reference" />
+        <attr name="leftTextVisible" format="boolean" />
+        <attr name="rightTextVisible" format="boolean" />
+        <attr name="leftTextDrawVisible" format="boolean" />
+        <attr name="rightTextDrawVisible" format="boolean" />
+        <attr name="leftImageVisible" format="boolean" />
+        <attr name="rightImageVisible" format="boolean" />
+        <attr name="leftImageDraw" format="reference" />
+        <attr name="rightImageDraw" format="reference" />
+        <attr name="type" >
+            <enum name="back" value="0"/>
+            <enum name="noBack" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

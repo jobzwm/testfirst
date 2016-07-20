@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.gsoft.suhe.view.MyAppTitleBack
+        android:id="@+id/fram_cart_myTitleBack"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/my_titleBack_height"
+        myapp:titleText="@string/text_gouwuche"
+        myapp:leftImageVisible="true"
+        myapp:leftImageDraw="@drawable/myapp_title_back_bg" />
+
+
+
+</LinearLayout>

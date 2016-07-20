@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="myapp_textColor_default">#FFFFFF</color>
+    <color name="myapp_titleColor_nomal">#FFFFFF</color>
+    <color name="myapp_rightColor_nomal">#FFFFFF</color>
+    <color name="myapp_leftColor_nomal">#FFFFFF</color>
+
+    <color name="color_main_theme">#DD137B</color>
+
+    <color name="color_text_black">#282828</color>
+    <color name="color_text_deepgray">#656565</color>
+    <color name="color_text_lightgray">#989898</color>
+    <color name="color_border_lightgray">#C3C3C3</color>
+    <color name="color_background_lightgray">#F2F2F2</color>
+    <color name="color_background_white">#FFFFFF</color>
+    <color name="color_nomal_divider_mainbg">#CCCCCC</color>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_orange">#F17E2D</color>
+    <!-- 深天蓝色 -->
+    <color name="color_deepskyblue">#00BFFF</color>
+    <!-- 烟白色 -->
+    <color name="color_whitesmoke">#F5F5F5</color>
+    <color name="color_half_whitesmoke">#55F5F5F5</color>
+    <!-- 湖蓝 -->
+    <color name="color_lakerblue">#64A0D7</color>
+    <!-- 褐色 -->
+    <color name="color_brown">#A52A2A</color>
+
+    <color name="color_red">#FF0000</color>
+    <color name="color_half_lightgray">#55C3C3C3</color>
+
+
+    <color name="radio_text_nomal">#1a1a1a</color>
+    <color name="radio_text_selected">#FF0000</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+
+    <color name="listview_item_normal">#eef0ed</color>
+    <color name="listview_item_pressed">#d4d4d4</color>
+
+
+    <drawable name="my_titleback_main_bg">@color/color_main_theme</drawable>
+
+    <drawable name="color_white">#FFFFFF</drawable>
+    <!-- 亮蓝色 -->
+    <drawable name="color_lightblue">#ADD8E6</drawable>
+    <drawable name="myapp_titleback_main_bg" >#DD137B</drawable>
+    <drawable name="drawable_half_black" >#77000000</drawable>
+
+
+    <drawable name="cate_first_nomal">#F2F2F2</drawable>
+    <drawable name="cate_first_checked">#FFFFFF</drawable>
+</resources>

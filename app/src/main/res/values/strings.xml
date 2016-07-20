@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuHe</string>
+
+    <string name="text_queding">确定</string>
+    <string name="text_quxiao">取消</string>
+
+    <string name="text_gouwuche">购物车</string>
+
+</resources>
